@@ -1,1 +1,1 @@
-Simple first program in python
+Simple input program in python
